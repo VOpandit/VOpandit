@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vinayak O. Pandit</h1>
 <h3 align="center">The DevOps Guy who ♥ automating stuff</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vopandit" alt="vopandit" /></a> </p>
-
 - 💬 Ask me about **DevOps Tools and Practices**
 
 - 📫 How to reach me **vinayakpandit9028@gmail.com**
